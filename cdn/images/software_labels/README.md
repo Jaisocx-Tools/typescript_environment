@@ -1,6 +1,34 @@
 
 # Software Labels by Jaisocx &#8482;
 
+![Typescript/softlabel_typescript_1.svg](Typescript/softlabel_typescript_1.svg)
+
+![Typescript/softlabel_typescript_2.svg](Typescript/softlabel_typescript_2.svg)
+
+
+
+![Js/softlabel_javascript_1.svg](Js/softlabel_javascript_1.svg)
+
+![Js/softlabel_javascript_2.svg](Js/softlabel_javascript_2.svg)
+
+
+
+![Node/softlabel_nodejs_1.svg](Node/softlabel_nodejs_1.svg)
+
+![Node/softlabel_nodejs_2.svg](Node/softlabel_nodejs_2.svg)
+
+
+
+![php/softlabel_php.svg](php/softlabel_php.svg)
+
+![docker/softlabel_docker.svg](docker/softlabel_docker.svg)
+
+![Prince/softlabel_prince.svg](Prince/softlabel_prince.svg)
+
+![Jaisocx/softlabel_jaisocx.svg](Jaisocx/softlabel_jaisocx.svg)
+
+
+
 ![Typescript/software_tm_label_typescript_1.svg](Typescript/software_tm_label_typescript_1.svg)
 
 ![Typescript/software_tm_label_typescript_2.svg](Typescript/software_tm_label_typescript_2.svg)
@@ -41,7 +69,7 @@
 
 ![Jaisocx/js_serverside_tm_label_jaisocx.svg](Jaisocx/js_serverside_tm_label_jaisocx.svg)
 
-![Jaisocx/serverside/js_serverside_jaisocx_command_line.svg](Jaisocx/serverside/js_serverside_jaisocx_command_line.svg)
+![./Jaisocx/serverside/jaisocx_command_line_1_2_4.svg](./Jaisocx/serverside/jaisocx_command_line_1_2_4.svg)
 
 
 

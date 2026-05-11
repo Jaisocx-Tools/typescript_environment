@@ -4,11 +4,11 @@
 
 <svg
     height="23"
-    width="353"
+    width="140"
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
-        <title>@jaisocx serverside js</title>
+        <title> Jaisocx </title>
 
 
 
@@ -17,7 +17,7 @@
             <rect
                 x="3"
                 y="3"
-                width="302"
+                width="137"
                 height="20"
                 fill="#ddd"
                 rx="3"
@@ -27,25 +27,17 @@
             <rect
                 x="1"
                 y="1"
-                width="22"
+                width="50"
                 height="20"
-                fill="#c5f575"
+                fill="navy"
             />
 
             <rect
-                x="23"
+                x="51"
                 y="1"
-                width="190"
+                width="89"
                 height="20"
-                fill="#c5f575"
-            />
-
-            <rect
-                x="213"
-                y="1"
-                width="90"
-                height="20"
-                fill="#e3f3c5"
+                fill="navy"
             />
 
         </g>
@@ -59,29 +51,13 @@
             transform="scale(0.1)"
         >
 
-              <text
-                  x="275"
-                  y="148"
-                  fill="#333"
-                  textLength="590" >
-                    @jaisocx
-              </text>
-
-              <text
-                  x="905"
-                  y="148"
-                  fill="#333"
-                  textLength="980" >
-                    /command_line
-              </text>
-
-              <text
-                  x="2310"
-                  y="148"
-                  fill="#222"
-                  textLength="400" >
-                    2.1.5
-              </text>
+          <text
+              x="350"
+              y="148"
+              fill="#c5c5c5"
+              textLength="490" >
+            Jaisocx
+          </text>
 
         </g>
 
@@ -95,7 +71,7 @@
 
     <g
         transform="translate(0.000,18) scale(0.00190,-0.0019)"
-        fill="#399533"
+        fill="#ace"
         stroke="white" >
 
       <path d="M2880 6941 c-503 -291 -1214 -702 -1580 -913 l-665 -384 -3 -1831 -2
@@ -127,7 +103,5 @@
   </svg>
 
 </svg>
-
-
 
 

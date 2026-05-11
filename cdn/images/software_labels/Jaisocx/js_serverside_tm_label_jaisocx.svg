@@ -1,21 +1,23 @@
-<!-- Jaisocx Software Label -->
+<!-- Jaisocx JS Serverside Software Label -->
+
+
 
 <svg
     height="23"
-    width="255"
+    width="414"
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
-        <title> @jaisocx serverside js </title>
+        <title> Jaisocx JS Serverside </title>
 
 
 
         <g>
 
-           <rect
+            <rect
                 x="3"
                 y="3"
-                width="252"
+                width="412"
                 height="20"
                 fill="#efe"
                 rx="3"
@@ -25,23 +27,31 @@
             <rect
                 x="1"
                 y="1"
-                width="22"
+                width="50"
                 height="20"
                 fill="#c5f575"
             />
 
             <rect
-                x="23"
+                x="51"
                 y="1"
-                width="190"
+                width="255"
                 height="20"
                 fill="#c5f575"
             />
 
             <rect
-                x="213"
+                x="306"
                 y="1"
-                width="40"
+                width="53"
+                height="20"
+                fill="#c5f575"
+            />
+
+            <rect
+                x="359"
+                y="1"
+                width="55"
                 height="20"
                 fill="#e3f3c5"
             />
@@ -57,29 +67,29 @@
             transform="scale(0.1)"
         >
 
-              <text
-                  x="275"
-                  y="148"
-                  fill="#333"
-                  textLength="590" >
-                    @jaisocx
-              </text>
+          <text
+              x="350"
+              y="148"
+              fill="#333"
+              textLength="1400" >
+                @jaisocx/js_serverside
+          </text>
 
-              <text
-                  x="905"
-                  y="148"
-                  fill="#333"
-                  textLength="980" >
-                    /server_side_js
-              </text>
+          <text
+              x="1925"
+              y="148"
+              fill="#333"
+              textLength="162" >
 
-              <text
-                  x="2310"
-                  y="148"
-                  fill="#222"
-                  textLength="400" >
+          </text>
 
-              </text>
+          <text
+              x="3675"
+              y="148"
+              fill="#222"
+              textLength="330" >
+
+          </text>
 
         </g>
 
@@ -124,8 +134,7 @@
     </g>
   </svg>
 
+
 </svg>
-
-
 
 

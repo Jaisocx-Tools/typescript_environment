@@ -4,7 +4,7 @@
 
 <svg
     height="23"
-    width="285"
+    width="140"
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
@@ -17,7 +17,7 @@
             <rect
                 x="3"
                 y="3"
-                width="282"
+                width="137"
                 height="20"
                 fill="#782287"
                 rx="3"
@@ -35,25 +35,9 @@
             <rect
                 x="51"
                 y="1"
-                width="125"
+                width="89"
                 height="20"
                 fill="#782287"
-            />
-
-            <rect
-                x="176"
-                y="1"
-                width="53"
-                height="20"
-                fill="#782287"
-            />
-
-            <rect
-                x="229"
-                y="1"
-                width="55"
-                height="20"
-                fill="#ecd7ce"
             />
 
         </g>
@@ -73,22 +57,6 @@
               fill="#c5c5c5"
               textLength="590" >
 
-          </text>
-
-          <text
-              x="1925"
-              y="148"
-              fill="#c95513"
-              textLength="162" >
-
-          </text>
-
-          <text
-              x="2460"
-              y="148"
-              fill="#782287"
-              textLength="290" >
-                16.2
           </text>
 
         </g>
