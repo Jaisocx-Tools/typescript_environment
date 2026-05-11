@@ -1,14 +1,14 @@
-<!-- Jaisocx JS Clientside Software Label -->
+<!-- Jaisocx Software Label -->
 
 
 
 <svg
     height="23"
-    width="414"
+    width="253"
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
-        <title> Jaisocx JS Clientside </title>
+        <title>Jaisocx 3.0.16</title>
 
 
 
@@ -17,9 +17,9 @@
             <rect
                 x="3"
                 y="3"
-                width="412"
+                width="250"
                 height="20"
-                fill="#ffe"
+                fill="#ddd"
                 rx="3"
                 ry="3"
             />
@@ -27,33 +27,25 @@
             <rect
                 x="1"
                 y="1"
-                width="50"
+                width="20"
                 height="20"
-                fill="#f5e575"
+                fill="navy"
             />
 
             <rect
-                x="51"
+                x="21"
                 y="1"
-                width="255"
+                width="140"
                 height="20"
-                fill="#f5e575"
+                fill="navy"
             />
 
             <rect
-                x="306"
+                x="161"
                 y="1"
-                width="53"
+                width="90"
                 height="20"
-                fill="#f5e575"
-            />
-
-            <rect
-                x="359"
-                y="1"
-                width="55"
-                height="20"
-                fill="#f3f3b5"
+                fill="#239"
             />
 
         </g>
@@ -67,29 +59,21 @@
             transform="scale(0.1)"
         >
 
-          <text
-              x="350"
-              y="148"
-              fill="#c95513"
-              textLength="1400" >
-                @jaisocx/js_clientside
-          </text>
+              <text
+                  x="320"
+                  y="148"
+                  fill="#c5c5c5"
+                  textLength="490" >
+                    Jaisocx
+              </text>
 
-          <text
-              x="1925"
-              y="148"
-              fill="#c95513"
-              textLength="162" >
-
-          </text>
-
-          <text
-              x="3675"
-              y="148"
-              fill="#222"
-              textLength="330" >
-
-          </text>
+              <text
+                  x="1780"
+                  y="148"
+                  fill="#e5e5e5"
+                  textLength="400" >
+                    3.0.16
+              </text>
 
         </g>
 
@@ -103,7 +87,7 @@
 
     <g
         transform="translate(0.000,18) scale(0.00190,-0.0019)"
-        fill="#f95533"
+        fill="#ace"
         stroke="white" >
 
       <path d="M2880 6941 c-503 -291 -1214 -702 -1580 -913 l-665 -384 -3 -1831 -2
@@ -134,7 +118,8 @@
     </g>
   </svg>
 
-
 </svg>
+
+
 
 

@@ -8,90 +8,90 @@
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
-  <title> Typescript </title>
+        <title> Typescript </title>
 
 
 
-  <g>
+        <g>
 
-    <rect
-        x="3"
-        y="3"
-        width="282"
-        height="20"
-        fill="#eef"
-        rx="3"
-        ry="3"
-    />
+            <rect
+                x="3"
+                y="3"
+                width="282"
+                height="20"
+                fill="#eef"
+                rx="3"
+                ry="3"
+            />
 
-    <rect
-        x="1"
-        y="1"
-        width="50"
-        height="20"
-        fill="#2233f5"
-    />
+            <rect
+                x="1"
+                y="1"
+                width="50"
+                height="20"
+                fill="#2233f5"
+            />
 
-    <rect
-        x="51"
-        y="1"
-        width="125"
-        height="20"
-        fill="#2233f5"
-    />
+            <rect
+                x="51"
+                y="1"
+                width="125"
+                height="20"
+                fill="#2233f5"
+            />
 
-    <rect
-        x="176"
-        y="1"
-        width="53"
-        height="20"
-        fill="#2233f5"
-    />
+            <rect
+                x="176"
+                y="1"
+                width="53"
+                height="20"
+                fill="#2233f5"
+            />
 
-    <rect
-        x="229"
-        y="1"
-        width="55"
-        height="20"
-        fill="#62a3f5"
-    />
+            <rect
+                x="229"
+                y="1"
+                width="55"
+                height="20"
+                fill="#62a3f5"
+            />
 
-  </g>
+        </g>
 
 
 
-  <g
-      font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
-      text-rendering="geometricPrecision"
-      font-size="129"
-      transform="scale(0.1)"
-  >
+        <g
+            font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+            text-rendering="geometricPrecision"
+            font-size="129"
+            transform="scale(0.1)"
+        >
 
-    <text
-        x="350"
-        y="148"
-        fill="#abb"
-        textLength="590" >
-      Typescript
-    </text>
+          <text
+              x="350"
+              y="148"
+              fill="#abb"
+              textLength="590" >
+            Typescript
+          </text>
 
-    <text
-        x="1925"
-        y="148"
-        fill="#abb"
-        textLength="162" >
-      lts
-    </text>
+          <text
+              x="1925"
+              y="148"
+              fill="#abb"
+              textLength="162" >
+            lts
+          </text>
 
-    <text
-        x="2460"
-        y="148"
-        fill="#eef"
-        textLength="205" >
-      6.0
-    </text>
+          <text
+              x="2460"
+              y="148"
+              fill="#eef"
+              textLength="205" >
+            6.0
+          </text>
 
-  </g>
+        </g>
 
 
 

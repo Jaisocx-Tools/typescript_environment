@@ -1,24 +1,20 @@
 <!-- Prince Software Label -->
 
-
-
 <svg
     height="23"
-    width="285"
+    width="253"
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
         <title> Prince </title>
-
-
 
         <g>
 
             <rect
                 x="3"
                 y="3"
-                width="282"
-                height="20"
+                height="23"
+                width="253"
                 fill="#782287"
                 rx="3"
                 ry="3"
@@ -27,32 +23,24 @@
             <rect
                 x="1"
                 y="1"
-                width="50"
                 height="20"
+                width="154"
                 fill="#782287"
             />
 
             <rect
-                x="51"
+                x="155"
                 y="1"
-                width="125"
                 height="20"
+                width="25"
                 fill="#782287"
             />
 
             <rect
-                x="176"
+                x="160"
                 y="1"
-                width="53"
                 height="20"
-                fill="#782287"
-            />
-
-            <rect
-                x="229"
-                y="1"
-                width="55"
-                height="20"
+                width="90"
                 fill="#ecd7ce"
             />
 
@@ -67,38 +55,28 @@
             transform="scale(0.1)"
         >
 
-          <text
-              x="520"
-              y="148"
-              fill="#c5c5c5"
-              textLength="590" >
+              <text
+                  x="1220"
+                  y="148"
+                  fill="#c5c5c5"
+                  textLength="290" >
 
-          </text>
+              </text>
 
-          <text
-              x="1925"
-              y="148"
-              fill="#c95513"
-              textLength="162" >
-
-          </text>
-
-          <text
-              x="2460"
-              y="148"
-              fill="#782287"
-              textLength="290" >
-                16.2
-          </text>
+              <text
+                  x="1900"
+                  y="148"
+                  fill="#782287"
+                  textLength="290" >
+                    16.2
+              </text>
 
         </g>
 
 
 
-
-
   <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
-       x="25"
+       x="22"
        y="2"
        width="49.000000pt" height="12.000000pt"
        viewBox="0 0 154.000000 48.000000">
@@ -344,8 +322,8 @@ m380 -3287 c266 -67 507 -264 628 -516 64 -131 85 -223 91 -390 4 -114 1 -158
     </g>
   </svg>
 
-
-
 </svg>
+
+
 
 

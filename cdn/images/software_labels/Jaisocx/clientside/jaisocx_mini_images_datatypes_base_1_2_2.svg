@@ -71,8 +71,8 @@
               x="350"
               y="148"
               fill="#c95513"
-              textLength="1400" >
-                @jaisocx/js_clientside
+              textLength="3000" >
+                @jaisocx/media_tools_images_mini_datatypes_base
           </text>
 
           <text
@@ -88,7 +88,7 @@
               y="148"
               fill="#222"
               textLength="330" >
-
+                1.2.2
           </text>
 
         </g>

@@ -27,31 +27,23 @@
     <rect
         x="1"
         y="1"
-        width="50"
+        width="22"
         height="20"
         fill="#2233f5"
     />
 
     <rect
-        x="51"
+        x="23"
         y="1"
-        width="125"
+        width="220"
         height="20"
         fill="#2233f5"
     />
 
     <rect
-        x="176"
+        x="120"
         y="1"
-        width="53"
-        height="20"
-        fill="#2233f5"
-    />
-
-    <rect
-        x="229"
-        y="1"
-        width="55"
+        width="163"
         height="20"
         fill="#62a3f5"
     />
@@ -68,31 +60,30 @@
   >
 
     <text
-        x="350"
+        x="340"
         y="148"
         fill="#abb"
-        textLength="590" >
+        textLength="635" >
       Typescript
     </text>
 
     <text
-        x="1925"
+        x="905"
         y="148"
         fill="#abb"
-        textLength="162" >
-      lts
+        textLength="1230" >
+
     </text>
 
     <text
-        x="2460"
+        x="1295"
         y="148"
         fill="#eef"
-        textLength="205" >
-      6.0
+        textLength="1303" >
+      6.0.0-dev.20260401
     </text>
 
   </g>
-
 
 
   <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
@@ -118,5 +109,4 @@
   </svg>
 
 </svg>
-
 

@@ -1,14 +1,14 @@
-<!-- Jaisocx JS Clientside Software Label -->
+<!-- Jaisocx Software Label -->
 
 
 
 <svg
     height="23"
-    width="414"
+    width="285"
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
-        <title> Jaisocx JS Clientside </title>
+        <title> @jaisocx clientside js </title>
 
 
 
@@ -17,7 +17,7 @@
             <rect
                 x="3"
                 y="3"
-                width="412"
+                width="282"
                 height="20"
                 fill="#ffe"
                 rx="3"
@@ -27,31 +27,23 @@
             <rect
                 x="1"
                 y="1"
-                width="50"
+                width="22"
                 height="20"
                 fill="#f5e575"
             />
 
             <rect
-                x="51"
+                x="23"
                 y="1"
-                width="255"
+                width="220"
                 height="20"
                 fill="#f5e575"
             />
 
             <rect
-                x="306"
+                x="243"
                 y="1"
-                width="53"
-                height="20"
-                fill="#f5e575"
-            />
-
-            <rect
-                x="359"
-                y="1"
-                width="55"
+                width="40"
                 height="20"
                 fill="#f3f3b5"
             />
@@ -67,29 +59,29 @@
             transform="scale(0.1)"
         >
 
-          <text
-              x="350"
-              y="148"
-              fill="#c95513"
-              textLength="1400" >
-                @jaisocx/js_clientside
-          </text>
+              <text
+                  x="275"
+                  y="148"
+                  fill="#c95513"
+                  textLength="590" >
+                    @jaisocx
+              </text>
 
-          <text
-              x="1925"
-              y="148"
-              fill="#c95513"
-              textLength="162" >
+              <text
+                  x="905"
+                  y="148"
+                  fill="#c95513"
+                  textLength="1230" >
+                    /clientside_js_css
+              </text>
 
-          </text>
+              <text
+                  x="2310"
+                  y="148"
+                  fill="#222"
+                  textLength="400" >
 
-          <text
-              x="3675"
-              y="148"
-              fill="#222"
-              textLength="330" >
-
-          </text>
+              </text>
 
         </g>
 
@@ -134,7 +126,8 @@
     </g>
   </svg>
 
-
 </svg>
+
+
 
 

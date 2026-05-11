@@ -4,8 +4,8 @@
 
 <svg
     height="23"
-    width="129"
-    fill="#ace"
+    width="285"
+    fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
         <title> Jaisocx </title>
@@ -17,9 +17,9 @@
             <rect
                 x="3"
                 y="3"
-                width="125"
+                width="282"
                 height="20"
-                fill="#ace"
+                fill="#ddd"
                 rx="3"
                 ry="3"
             />
@@ -27,17 +27,33 @@
             <rect
                 x="1"
                 y="1"
-                width="20"
+                width="50"
                 height="20"
                 fill="navy"
             />
 
             <rect
-                x="21"
+                x="51"
                 y="1"
-                width="105"
+                width="125"
                 height="20"
                 fill="navy"
+            />
+
+            <rect
+                x="176"
+                y="1"
+                width="53"
+                height="20"
+                fill="navy"
+            />
+
+            <rect
+                x="229"
+                y="1"
+                width="55"
+                height="20"
+                fill="#239"
             />
 
         </g>
@@ -51,13 +67,29 @@
             transform="scale(0.1)"
         >
 
-              <text
-                  x="320"
-                  y="148"
-                  fill="#c5c5c5"
-                  textLength="490" >
-                    Jaisocx
-              </text>
+          <text
+              x="350"
+              y="148"
+              fill="#c5c5c5"
+              textLength="490" >
+            Jaisocx
+          </text>
+
+          <text
+              x="1925"
+              y="148"
+              fill="#c5c5c5"
+              textLength="250" >
+            tmp
+          </text>
+
+          <text
+              x="2360"
+              y="148"
+              fill="#e5e5e5"
+              textLength="400" >
+                3.0.16
+          </text>
 
         </g>
 
@@ -103,7 +135,5 @@
   </svg>
 
 </svg>
-
-
 
 

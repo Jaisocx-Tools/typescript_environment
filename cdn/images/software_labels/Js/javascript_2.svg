@@ -8,82 +8,91 @@
     fill="#222222"
     xmlns="http://www.w3.org/2000/svg" >
 
-        <title> Javascript </title>
+  <title> Javascript </title>
 
 
 
-        <g>
+  <g>
 
-            <rect
-                x="3"
-                y="3"
-                width="282"
-                height="20"
-                fill="#ffe"
-                rx="3"
-                ry="3"
-            />
+    <rect
+        x="3"
+        y="3"
+        width="282"
+        height="20"
+        fill="#ffe"
+        rx="3"
+        ry="3"
+    />
 
-            <rect
-                x="1"
-                y="1"
-                width="22"
-                height="20"
-                fill="#f5e575"
-            />
+    <rect
+        x="1"
+        y="1"
+        width="50"
+        height="20"
+        fill="#f5e575"
+    />
 
-            <rect
-                x="23"
-                y="1"
-                width="220"
-                height="20"
-                fill="#f5e575"
-            />
+    <rect
+        x="51"
+        y="1"
+        width="125"
+        height="20"
+        fill="#f5e575"
+    />
 
-            <rect
-                x="243"
-                y="1"
-                width="40"
-                height="20"
-                fill="#f3f3b5"
-            />
+    <rect
+        x="176"
+        y="1"
+        width="53"
+        height="20"
+        fill="#f5e575"
+    />
 
-        </g>
+    <rect
+        x="229"
+        y="1"
+        width="55"
+        height="20"
+        fill="#f3f3b5"
+    />
+
+  </g>
 
 
 
-        <g
-            font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
-            text-rendering="geometricPrecision"
-            font-size="129"
-            transform="scale(0.1)"
-        >
+  <g
+      font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+      text-rendering="geometricPrecision"
+      font-size="129"
+      transform="scale(0.1)"
+  >
 
-              <text
-                  x="340"
-                  y="148"
-                  fill="#c95513"
-                  textLength="590" >
-                    javascript
-              </text>
+    <text
+        x="350"
+        y="148"
+        fill="#c95513"
+        textLength="590" >
+      Javascript
+    </text>
 
-              <text
-                  x="905"
-                  y="148"
-                  fill="#c95513"
-                  textLength="1230" >
+    <text
+        x="1925"
+        y="148"
+        fill="#c95513"
+        textLength="162" >
 
-              </text>
+    </text>
 
-              <text
-                  x="2310"
-                  y="148"
-                  fill="#222"
-                  textLength="400" >
+    <text
+        x="2460"
+        y="148"
+        fill="#222"
+        textLength="165" >
 
-              </text>
+    </text>
 
-        </g>
+  </g>
+
 
 
   <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
@@ -109,4 +118,5 @@
   </svg>
 
 </svg>
+
 

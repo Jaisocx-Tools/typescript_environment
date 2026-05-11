@@ -71,8 +71,8 @@
               x="350"
               y="148"
               fill="#c95513"
-              textLength="1400" >
-                @jaisocx/js_clientside
+              textLength="900" >
+                @jaisocx/tree
           </text>
 
           <text
@@ -87,8 +87,8 @@
               x="3675"
               y="148"
               fill="#222"
-              textLength="330" >
-
+              textLength="400" >
+                2.2.22
           </text>
 
         </g>
