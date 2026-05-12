@@ -1,5 +1,5 @@
 
-![../../cdn/images/software_labels/Jaisocx/software_tm_label_jaisocx.svg](../../cdn/images/software_labels/Jaisocx/software_tm_label_jaisocx.svg)
+![../../cdn/images/software_labels/Jaisocx/softlabel_jaisocx.svg](../../cdn/images/software_labels/Jaisocx/softlabel_jaisocx.svg)
 
 # 2 npm packages were built with webpack to bundle.js
 

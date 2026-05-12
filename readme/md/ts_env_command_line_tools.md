@@ -1,4 +1,4 @@
-![../../cdn/images/software_labels/Jaisocx/software_tm_label_jaisocx.svg](../../cdn/images/software_labels/Jaisocx/software_tm_label_jaisocx.svg)
+![../../cdn/images/software_labels/Jaisocx/softlabel_jaisocx.svg](../../cdn/images/software_labels/Jaisocx/softlabel_jaisocx.svg)
 ![../../cdn/images/software_labels/Jaisocx/serverside/js_serverside_jaisocx_command_line.svg](../../cdn/images/software_labels/Jaisocx/serverside/js_serverside_jaisocx_command_line.svg)
 
 
