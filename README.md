@@ -1,9 +1,9 @@
 
 ![./cdn/images/software_labels/docker/software_tm_label_docker.svg](./cdn/images/software_labels/docker/software_tm_label_docker.svg)
 ![./cdn/images/software_labels/php/software_tm_label_php.svg](./cdn/images/software_labels/php/software_tm_label_php.svg)
-![./cdn/images/software_labels/Node/nodejs_2.svg](./cdn/images/software_labels/Node/nodejs_2.svg)
-![./cdn/images/software_labels/Typescript/typescript_2_5_9_3.svg](./cdn/images/software_labels/Typescript/typescript_2_5_9_3.svg)
-![./cdn/images/software_labels/Jaisocx/software_sites_server_tm_label_jaisocx_3_0_16.svg](./cdn/images/software_labels/Jaisocx/software_sites_server_tm_label_jaisocx_3_0_16.svg)
+![./cdn/images/software_labels/Node/software_tm_label_nodejs_2.svg](./cdn/images/software_labels/Node/software_tm_label_nodejs_2.svg)
+![./cdn/images/software_labels/Typescript/software_tm_label_typescript_2_593.svg](./cdn/images/software_labels/Typescript/software_tm_label_typescript_2_593.svg)
+![./cdn/images/software_labels/Jaisocx/software_tm_label_jaisocx.svg](./cdn/images/software_labels/Jaisocx/software_tm_label_jaisocx.svg)
 
   > **🗓 Updated**: Sun. 26 Apr. 2026 03:35:43
 
