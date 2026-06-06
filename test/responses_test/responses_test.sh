@@ -16,7 +16,6 @@ overloc_env_test_start="${env_test_start}"
 overloc_env_links_published="${env_links_published}"
 
 
-
 loc_proto="https"
 const_http_standard_port="80"
 const_https_standard_port="443"
@@ -43,16 +42,15 @@ fi
 
 
 
-IFS="\n"
+IFS=" "
 
 loc_link="${loc_test_address}"
 
-for link in "${overloc_env_links_published}"; do
+for link in $overloc_env_links_published; do
 
   loc_link="${loc_test_address}${link}"
-  echo -e "requesting: ${loc_link}\n"
 
-  curl -i "${loc_link}";
+  wget --method=HEAD "${loc_link}"
 
 done;
 

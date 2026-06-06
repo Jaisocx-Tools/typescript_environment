@@ -55,6 +55,14 @@
                  list="true"
                  each-folder-content-file-name="index.php" />
 
+          <alias
+              art="folder"
+              url="/cdn/fonts/Press_Start_2P/"
+              path="/opt/jaisocx/sites_tools/workspace/ts/cdn/fonts/Press_Start_2P/"
+              cache="cache"
+              list="true"
+              each-folder-content-file-name="index.html" />
+
         </domain>
 
       </server>
